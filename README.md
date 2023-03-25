@@ -40,7 +40,9 @@ Va a modificar el archivo javascript añadiendo un botón para regresar a la pag
 
 5. Informe
 
-Se modificó el título para dar una mayor especificidad al usuario y mejorar su experiencia de búsqueda
-Se cambió el color del fondo de la página para darle mayor visibilidad y atracción de acuerdo al público interesado
-Se añadió una función a la pokédex para volver a la página principal y agilizar la búsqueda de un nuevo pokemon
+*Se modificó el título para dar una mayor especificidad al usuario y mejorar su experiencia de búsqueda.
+
+*Se cambió el color del fondo de la página para darle mayor visibilidad y atracción de acuerdo al público interesado.
+
+*Se añadió una función a la pokédex para volver a la página principal y agilizar la búsqueda de un nuevo pokemon.
 
