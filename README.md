@@ -3,6 +3,7 @@ Proyecto Pokédex
 Actividades
 
 
+
 DESARROLLADOR UNO
 
 Se encargará de crear el archivo html creando una pokédex con la función buscar pokemon. Creará un input con la función buscar pokemon. Se encargará de asociar la página al CSS y JavaScript
