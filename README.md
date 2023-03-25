@@ -5,7 +5,7 @@ Proyecto Pokédex
 DESARROLLADOR 1
 
 Se encargará de crear el archivo html creando una pokédex con la función buscar pokemon.
-Creará el botón la función buscar pokemon.
+Creará un input con la función buscar pokemon.
 Se encargará de asociar la página al CSS y JavaScript
 
 DESARROLLADOR 2
@@ -33,7 +33,7 @@ Va a modificar los colores de la pokédex para que sea agradable y acorde al ped
 
 DESARROLLADOR 3
 
-Va a modificar el archivo javascript añadiendo un botón para buscar pokemon
+Va a modificar el archivo javascript añadiendo un input para buscar pokemon
 
 
 
@@ -44,5 +44,5 @@ Va a modificar el archivo javascript añadiendo un botón para buscar pokemon
 
 *Se cambió el color del fondo de la página para darle mayor visibilidad y atracción de acuerdo al público interesado.
 
-*Se añadió una función a la pokédex para buscar un pokemon.
+*Se añadió una función mediante un input a la pokédex para buscar un pokemon.
 
