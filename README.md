@@ -33,7 +33,7 @@ Va a modificar los colores de la pokédex para que sea agradable y acorde al ped
 
 DESARROLLADOR 3
 
-Va a modificar el archivo javascript añadiendo un botón para regresar a la pagina principal
+Va a modificar el archivo javascript añadiendo un botón para buscar pokemon
 
 
 
@@ -44,5 +44,5 @@ Va a modificar el archivo javascript añadiendo un botón para regresar a la pag
 
 *Se cambió el color del fondo de la página para darle mayor visibilidad y atracción de acuerdo al público interesado.
 
-*Se añadió una función a la pokédex para volver a la página principal y agilizar la búsqueda de un nuevo pokemon.
+*Se añadió una función a la pokédex para buscar un pokemon.
 
