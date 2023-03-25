@@ -1,6 +1,6 @@
 Proyecto Pokédex
 
-### Actividades
+Actividades
 
 
 DESARROLLADOR UNO
@@ -16,7 +16,7 @@ DESARROLLADOR TRES
 Se encargará de crear el archivo JavaScript para las funciones de la pokédex Asociar la función buscar al html Verificar las funciones
 
 
-### Modificaciones
+ Modificaciones
 
 
 DESARROLLADOR UNO
@@ -32,7 +32,7 @@ DESARROLLADOR TRES
 Va a modificar el archivo javascript añadiendo un input para buscar pokemon
 
 
-### INFORME
+INFORME
 
 
 *Se modificó el título para dar una mayor especificidad al usuario y mejorar su experiencia de búsqueda.
