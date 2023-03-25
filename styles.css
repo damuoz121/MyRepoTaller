@@ -1,0 +1,81 @@
+        /* Pokédex styles */
+        .pokedex {
+            max-width: 90%;
+            margin: 0 auto;
+            padding: 20px;
+            }
+        
+            /* Header styles */
+            .pokedex__header{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            background-color: beige;
+            }
+        
+            .pokedex__header{
+            font-size: 36px;
+            font-weight: bold;
+            }
+        
+            .pokedex__header{
+            padding: 10px;
+            font-size: 18px;
+            border: none;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            }
+        
+            /* Pokémon card styles */
+            .pokemon-card {
+            display: inline-block;
+            width: 30%;
+            height: 250px;
+            margin: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            background-color: beige
+            }
+        
+            .pokemon-card__image {
+            margin-top: 10px;
+            height: 150px;
+            }
+        
+            .pokemon-card__name {
+            margin-top: 10px;
+            font-size: 20px;
+            font-weight: bold;
+            }
+        
+            .pokemon-card__type {
+            margin-top: 5px;
+            font-size: 16px;
+            font-weight: bold;
+            }
+        
+            .pokemon-card__type--grass {
+            color: green;
+            }
+        
+            .pokemon-card__type--fire {
+            color: orange;
+            }
+        
+            .pokemon-card__type--water {
+            color: blue;
+            }
+        
+            .pokemon-card__type--electric {
+            color: yellow;
+            }
+        
+            .pokemon-card__type--normal {
+            color: gray;
+            }
+        
+            .pokemon-card__type--fairy {
+            color: pink;
+            }
